@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 - [About me](#about-me)
 - [Skills](#skills)
 - [Courses](#courses)
