@@ -5,7 +5,7 @@
 - [My Projects](#my-projects)
 
 ## About Me
-
+I am a reliable and flexible person. I am a quick learner, willing to learn new skills, and very hardworking. My objective is to find an employer where I can use the skills I already have and grow with them. Currently, spend my time reading and writing. Wish to be a good writer like Tolkien and J. K. Rowling. Love running and sleeping. Because I don't have any experience yet, I am looking for an internship if there is one.
 ## Skills
 __Here's some of my skill:__
 * Can perform manual functional and usability testing of web applications
@@ -22,4 +22,5 @@ __Here's some of my skill:__
   * Test case for checking the login functionality (in English) on website [`Rekrutmen SSO Infomedia`](https://recruit.infomedia.co.id/)
     * Here is the [test scenario](https://docs.google.com/spreadsheets/d/14Ehq7nf1SQ-HoOPkLxwIRyGZ4Kmpbz3pVDH2l9fUiLY/edit?usp=sharing) that I make
 ### Bug Report
-  * [ ] On progress...
+  * Bug report (in English) on website [`Rekrutmen SSO Infomedia`](https://recruit.infomedia.co.id/).
+    * Here is the [bug report](https://docs.google.com/document/d/16sj1Io0OoMQOsPddh6CtRudhkf8XB-3IWei6dU68SzA/edit?usp=sharing) that I make
