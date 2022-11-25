@@ -23,4 +23,6 @@ __Here's some of my skill:__
     * Here is the [test scenario](https://docs.google.com/spreadsheets/d/14Ehq7nf1SQ-HoOPkLxwIRyGZ4Kmpbz3pVDH2l9fUiLY/edit?usp=sharing) that I make
 ### Bug Report
   * Bug report (in English) on website [`Rekrutmen SSO Infomedia`](https://recruit.infomedia.co.id/).
-    * Here is the [bug report](https://docs.google.com/document/d/16sj1Io0OoMQOsPddh6CtRudhkf8XB-3IWei6dU68SzA/edit?usp=sharing) that I make
+    * Here is the [bug report](https://docs.google.com/document/d/16sj1Io0OoMQOsPddh6CtRudhkf8XB-3IWei6dU68SzA/edit?usp=sharing) that I find on the website
+  * Bug report (in English) on website [`HPI-AGRO`](http://www.hpi-agro.com/). 
+    * Here is the [bug report](https://docs.google.com/document/d/1QUJzimvDEiBxfCXRr31uV1CdHqUWbdmh8_SYjdtZKjg/edit?usp=sharing) that I find on the website
