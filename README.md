@@ -11,7 +11,7 @@ __Here's some of my skill:__
 * Can perform manual functional and usability testing of web applications
 * Knowledge In Software Development Life Cycle (SDLC) And Software Test Life Cycle (STLC).
 * Can create test cases and know how and in which situations to use them effectively
-* Familiar with HTML, CSS, and Jacascript
+* Familiar with HTML, CSS, and Javascript
 
 ## Courses
 * Quality Assurance bootcamp on binar academy
